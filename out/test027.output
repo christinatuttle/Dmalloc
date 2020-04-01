@@ -1,0 +1,1 @@
+MEMORY BUG: test027.cc:12: detected wild write during free of pointer 0x1813f80

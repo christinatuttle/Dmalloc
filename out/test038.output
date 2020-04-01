@@ -1,0 +1,2 @@
+MEMORY BUG: ?:0: invalid free of pointer 0x1295b38, not allocated
+  ?:0: 0x1295b38 is 3000 bytes inside a 4200 byte region allocated here

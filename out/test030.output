@@ -1,0 +1,7 @@
+LEAK CHECK: test030.cc:18: allocated object 0x22dc810 with size 19
+LEAK CHECK: test030.cc:16: allocated object 0x22dc2d0 with size 17
+LEAK CHECK: test030.cc:15: allocated object 0x22dc030 with size 16
+LEAK CHECK: test030.cc:14: allocated object 0x22dbcd0 with size 15
+LEAK CHECK: test030.cc:13: allocated object 0x22dba30 with size 14
+LEAK CHECK: test030.cc:11: allocated object 0x22db4e0 with size 12
+LEAK CHECK: test030.cc:10: allocated object 0x22db250 with size 11

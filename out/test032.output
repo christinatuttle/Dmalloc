@@ -1,0 +1,2 @@
+MEMORY BUG: test032.cc:14: invalid free of pointer 0x1453a28, not allocated
+  test032.cc:11: 0x1453a28 is 200 bytes inside a 3000 byte region allocated here

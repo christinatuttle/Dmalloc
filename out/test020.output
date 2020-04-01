@@ -1,0 +1,2 @@
+Will free 0x20b2f80
+MEMORY BUG: test020.cc:11: invalid free of pointer 0x20b2f80, double free

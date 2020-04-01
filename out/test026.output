@@ -1,0 +1,2 @@
+About to free 0x1996f80
+MEMORY BUG: test026.cc:13: detected wild write during free of pointer 0x1996f80

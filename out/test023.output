@@ -1,0 +1,2 @@
+Bad pointer 0x1bb7fff
+MEMORY BUG: test023.cc:10: invalid free of pointer 0x1bb7fff, not allocated

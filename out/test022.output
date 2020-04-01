@@ -1,0 +1,3 @@
+Bad pointer 0x131a000
+MEMORY BUG: test022.cc:10: invalid free of pointer 0x131a000, not allocated
+  test022.cc:8: 0x131a000 is 128 bytes inside a 2001 byte region allocated here
